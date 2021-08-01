@@ -122,6 +122,8 @@ Please feel free to contribute and create a pull request.
 *  [Nilüfer - Mor Menekşe](https://www.youtube.com/watch?v=vs-uxMVTW8I)  
 *  [Nilüfer - Selam Söyle](https://www.youtube.com/watch?v=GoSU1-TJOQs)  
 *  [Nur Yoldaş - Sultan-ı Yegah](https://www.youtube.com/watch?v=sqXHUxfsd7A)  
+*  [Nurhan Damcıoğlu - Lüküs Hayat](https://www.youtube.com/watch?v=WixaQrYUlMk)  
+*  [Nurhan Damcioğlu - Yangın Var](https://www.youtube.com/watch?v=VrHBg6vXumI)  
 *  [Nükhet Duru - Ben Sana Vurgunum](https://www.youtube.com/watch?v=E0lI5169AYM)  
 *  [Özdemir Erdoğan - Aç Kapıyı Gir İçeri](https://www.youtube.com/watch?v=zGMT_ymUinw)  
 *  [Özdemir Erdoğan - Gurbet](https://www.youtube.com/watch?v=w0DTBlCB9ko)  
