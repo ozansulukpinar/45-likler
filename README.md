@@ -98,6 +98,7 @@ Please feel free to contribute and create a pull request.
 *  [Marc Aryan - Moda Yolu](https://www.youtube.com/watch?v=WPA2TvD5DAA)  
 *  [Marc Aryan - Nasıl Evlenirsin Bu Lisanla](https://www.youtube.com/watch?v=6KKiSFMqLzA)  
 *  [Mavi Işıklar - Helvacı](https://www.youtube.com/watch?v=9aQs-Aaz2CE)  
+*  [Mavi Işıklar - İyi Düşün Taşın](https://www.youtube.com/watch?v=szQOJhbGlJw)  
 *  [Mazhar ve Fuat - Adımız Miskindir Bizim](https://www.youtube.com/watch?v=zbeErgE4quA)  
 *  [Melike Demirağ - Hadi Canım Sende](https://www.youtube.com/watch?v=uqIEiUv1bVQ)  
 *  [Meral Ve Zuhal - Param Yok Pulum Yok](https://www.youtube.com/watch?v=vWRdyDmGboA)  
