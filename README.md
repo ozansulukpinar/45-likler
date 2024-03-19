@@ -2,6 +2,8 @@
 
 This list is consisting best songs released between the early 1960s and the early 1990s. Of course, these are just what I listened until today, I am sure there are much more than.
 
+Here is the playlist that contains songs on this list: [Spotify](https://open.spotify.com/playlist/5VD87mPbWlGQsnvKyhCbQG?si=12c9340c3c654402)
+
 Please feel free to contribute and create a pull request.
 
 - Ajda Pekkan - Baksana Talihe [[YouTube](https://www.youtube.com/watch?v=SbDII2ZyBnU) | [Spotify](https://open.spotify.com/intl-tr/track/0ffoEaBfbccbYWFsubcF8O)]
@@ -27,7 +29,7 @@ Please feel free to contribute and create a pull request.
 - Asu Maralman - Bal Gibi Olur [[YouTube](https://www.youtube.com/watch?v=EIV3BU5vnZc) | [Spotify](https://open.spotify.com/intl-tr/track/4TO8P8RZ7FRdS4NOvJl3Yi)]
 - Asu Maralman - Bağrı Yanık Dostlara [[YouTube](https://www.youtube.com/watch?v=8j-IHZW6u-w) | [Spotify](https://open.spotify.com/intl-tr/track/4IW6dceg25kuWOsqvh3mDR)]
 - Asu Maralman - Hudey Hudey [[YouTube](https://www.youtube.com/watch?v=rb5oi6--Rho) | [Spotify](https://open.spotify.com/intl-tr/track/6AlSh7oCqt7WwhE86wJtHA)]
-- Ay Feri - Yalan Dünya [[YouTube](https://www.youtube.com/watch?v=BoCZ7AGuhVQ) | [Spotify]()]
+- Ay Feri - Yalan Dünya [[YouTube](https://www.youtube.com/watch?v=BoCZ7AGuhVQ) | [Spotify](https://open.spotify.com/intl-tr/track/4GYYskp1dfUSSMsHiayx3t)]
 - Ayla Dikmen - Anlamazdın [[YouTube](https://www.youtube.com/watch?v=tNjZndIA6F8) | [Spotify](https://open.spotify.com/intl-tr/track/1qwQ1P3FwFouG1zTIBkGXU)]
 - Aylin Urgal - Paran Pulun Senin Olsun [[YouTube](https://www.youtube.com/watch?v=ZT2QKbtR7Rs) | [Spotify](https://open.spotify.com/intl-tr/track/2hlntIYNUEhUbuSvB9kPZg)]
 - Aylin Urgal - Sakın Ağlama Ardından [[YouTube](https://www.youtube.com/watch?v=fw5XkPtzTsk) | [Spotify](https://open.spotify.com/intl-tr/track/4NYlGJWjHubltm3lCY0Hq2)]
@@ -130,7 +132,7 @@ Please feel free to contribute and create a pull request.
 - Modern Folk Üçlüsü - Bom Bili Bom [[YouTube](https://www.youtube.com/watch?v=YZA8nycMs7Y) | [Spotify](https://open.spotify.com/intl-tr/track/6UnoO6YTjRHvUNTTT9ZvZL)]
 - Moğollar - 7/8 9/8 [[YouTube](https://www.youtube.com/watch?v=_DgJk7nEPb0) | [Spotify](https://open.spotify.com/intl-tr/track/7BspAkMwdeh97or8t2MgCr)]
 - Moğollar - Ağrı Dağı Efsanesi [[YouTube](https://www.youtube.com/watch?v=oBNayWLXCHA) | [Spotify](https://open.spotify.com/intl-tr/track/0EibVYIKV1pVWvCAgANAmS)]
-- Neco - Hani [[YouTube](https://www.youtube.com/watch?v=dVHdQVBOGhI) | [Spotify]()]
+- Neco - Hani [[YouTube](https://www.youtube.com/watch?v=dVHdQVBOGhI) | [Spotify](https://open.spotify.com/intl-tr/track/7wNPjyXMRVJGwvVhESoY1y)]
 - Nermin Candan - Hayat Mı Bu? [[YouTube](https://www.youtube.com/watch?v=5135_fCB88c) | [Spotify](https://open.spotify.com/intl-tr/track/3QxXjwzQeoVl9JD094P2jX)]
 - Nermin Candan - Olmaz Olmaz Bu İş Olamaz [[YouTube](https://www.youtube.com/watch?v=Ohu8WtOyACE) | [Spotify](https://open.spotify.com/intl-tr/track/73W1NgaaghsyjKoGSLMIVX)]
 - Nesrin Sipahi - Ağlama Değmez Hayat [[YouTube](https://www.youtube.com/watch?v=lDmiS1YCfMs) | [Spotify](https://open.spotify.com/intl-tr/track/5AbhfPymEEQRi578TqxCq6)]
