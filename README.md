@@ -7,7 +7,7 @@ Here is the playlist that contains songs on this list: [Spotify](https://open.sp
 Please feel free to contribute and create a pull request.
 
 - Ajda Pekkan - Baksana Talihe [[YouTube](https://www.youtube.com/watch?v=SbDII2ZyBnU) | [Spotify](https://open.spotify.com/intl-tr/track/0ffoEaBfbccbYWFsubcF8O)]
-- Ajda Pekkan – Bambaşka Biri [[YouTube](https://www.youtube.com/watch?v=qNe6TdUYzIs) | [Spotify](https://open.spotify.com/intl-tr/track/2PtfdRfzzZasYANp1o9HD9)]
+- Ajda Pekkan - Bambaşka Biri [[YouTube](https://www.youtube.com/watch?v=qNe6TdUYzIs) | [Spotify](https://open.spotify.com/intl-tr/track/2PtfdRfzzZasYANp1o9HD9)]
 - Ajda Pekkan - Boş Vermişim Dünyaya [[YouTube](https://www.youtube.com/watch?v=9O0jlmIXn5Y) | [Spotify](https://open.spotify.com/intl-tr/track/3jlaFDCkViUyTsIjg39Qf4)]
 - Ajda Pekkan - Haykıracak Nefesim Kalmasa Bile [[YouTube](https://www.youtube.com/watch?v=G81e4utp3Mo) | [Spotify](https://open.spotify.com/intl-tr/track/1cRpb34T284GhBlbVK3qpK)]
 - Ajda Pekkan - Hoş Gör Sen [[YouTube](https://www.youtube.com/watch?v=oglP5VQR5Bk) | [Spotify](https://open.spotify.com/intl-tr/track/759loAtdMsqkEexIB6Zu7T)]
